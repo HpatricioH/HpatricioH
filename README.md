@@ -7,16 +7,16 @@ I'm Patricio, a Full Stack Developer
 **Front End:**
 
 - JavaScript 💻
-   * React ⚛
-   * Sass 🕶️, Tailwind ♒
-   * APIs 📓
-   * Recoil 🔃
+- React ⚛
+- Sass 🕶️, Tailwind ♒
+- APIs 📓
+- Recoil 🔃
 
 **Back End:**
 
 - Node 🚀
-   * Express
-   * Web APIs
-   * OAuth
-   * Passport Js
-   \* MySQL
+- Express
+- Web APIs
+- OAuth
+- Passport Js
+- MySQL

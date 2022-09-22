@@ -23,4 +23,4 @@ yarn-error.log*
 
 #Ignore vs code 
 .vscode
-.assets
+/assets

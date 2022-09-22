@@ -1,6 +1,8 @@
 # Hi, 👋
 
-I'm Patricio, a Full Stack Developer
+<p>I'm Patricio, a Full Stack Developer</p>
+
+![img](assets/github.svg) ![img](assets/twiter.svg)
 
 ## Skills
 
@@ -12,4 +14,4 @@ I'm Patricio, a Full Stack Developer
 
 **Back End:**
 
-Node 🚀 | Express | Web APIs | OAuth | Passport Js | MySQL
+![svg](assets/nodejs.svg) | Express | Web APIs | OAuth | Passport Js | MySQL

@@ -20,10 +20,6 @@
   <p>Web APIs | OAuth | Passport Js</p>
 </div>
 
-<h2 style="font-size:2.5rem; font-weight:bold; text-align:center; border-bottom: 1px solid; border-top: 1px solid; padding:0.5rem; margin-top:1rem">Let's Connect</h2>
+## Let's Connect
 
-<div style="display:flex; justify-content:center; padding-top: 1rem">
- 
- [![foo](assets/github.svg)](https://github.com/HpatricioH?tab=overview&from=2022-09-01&to=2022-09-21) [![foo](assets/linkedin.svg)](https://www.linkedin.com/in/patricio-huerta/)
- 
-</div>
+[![foo](assets/github.svg)](https://github.com/HpatricioH?tab=overview&from=2022-09-01&to=2022-09-21) [![foo](assets/linkedin.svg)](https://www.linkedin.com/in/patricio-huerta/)

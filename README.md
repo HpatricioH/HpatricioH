@@ -1,24 +1,20 @@
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; padding-bottom:0.8rem">
-  <h1 style="font-size:2.9rem">Hi, 👋</h1>
-  
-  <p>I'm Patricio, a Full Stack Developer</p>
-</div>
+## Hi, 👋
 
-<h2 style="font-size:2.5rem; font-weight:bold; text-align:center; border-bottom: 1px solid; border-top: 1px solid; padding-bottom:0.5rem">Skills</h2>
+<p>I'm Patricio, a Full Stack Developer</p>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items:center; gap: 0.5rem">
-  <p style="font-size:1.8rem; padding-top:0.4rem">Front-End</p>
-  
-  ![svg](assets/javascript.svg) ![svg](assets/react.svg) ![svg](assets/sass.svg) ![svg](assets/tailwind.svg) ![svg](assets/html5.svg) ![svg](assets/css.svg)
-  
+## Skills
+
+### Front-End
+
+![svg](assets/javascript.svg) ![svg](assets/react.svg) ![svg](assets/sass.svg) ![svg](assets/tailwind.svg) ![svg](assets/html5.svg) ![svg](assets/css.svg)
+
   <p>APIs 📓  |  Recoil 🔃</p>
   
-  <p style="font-size:1.8rem">Back-End</p>
+### Back-End
   
   ![svg](assets/nodejs.svg) ![SVG](assets/mysql.svg) ![svg](assets/express.svg)
   
   <p>Web APIs | OAuth | Passport Js</p>
-</div>
 
 ## Let's Connect
 

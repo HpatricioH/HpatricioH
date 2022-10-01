@@ -1,8 +1,4 @@
-# Hi, 👋
-
-<p>I'm Patricio, a Full Stack Developer</p>
-
-[![@hpatricioh's Holopin board](https://holopin.io/api/user/board?user=hpatricioh)](https://holopin.io/@hpatricioh)
+![img](assets/banner.JPG)
 
 ## Skills
 

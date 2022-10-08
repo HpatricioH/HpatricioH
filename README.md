@@ -1,17 +1,34 @@
 ![img](assets/banner.JPG)
 
-## Skills
+<p align="center">
+  <h1 align="center"><strong>Skills</strong></h1>
+</p>
 
-### Front-End
+<h2 align="center"><strong>Front-End</strong></h2>
 
-![svg](assets/javascript.svg) ![svg](assets/react.svg) ![svg](assets/sass.svg) ![svg](assets/tailwind.svg) ![svg](assets/html5.svg) ![svg](assets/css.svg) <p>APIs 📓 | Recoil 🔃</p>
+<p align="center" style="margin-top:16px">
+  <img align="center" src="assets/javascript.svg"/>
+  <img align="center" src="assets/react.svg"/>
+  <img align="center" src="assets/sass.svg"/>
+  <img align="center" src="assets/tailwind.svg"/>
+  <img align="center" src="assets/html5.svg"/>
+  <img align="center" src="assets/css.svg"/>
+  <span align="center">APIs 📓 | Recoil 🔃</span>
+</p>
 
-### Back-End
+<h2 align="center" style="margin-top:20px"><strong>Back-End</strong></h2>
 
-![svg](assets/nodejs.svg) ![SVG](assets/mysql.svg) ![svg](assets/express.svg)
+<p align="center" style="margin-top:16px">
+  <img align="center" src="assets/nodejs.svg"/>
+  <img align="center" src="assets/mysql.svg"/>
+  <img align="center" src="assets/express.svg"/>
+  <span align="center">Web APIs | OAuth | Passport Js</span>
+</p>
 
-  <p>Web APIs | OAuth | Passport Js</p>
+<h2 align="center" style="margin-top:20px"><strong>Let's Connect</strong></h2>
 
-## Let's Connect
-
-[![foo](assets/github.svg)](https://github.com/HpatricioH?tab=overview&from=2022-09-01&to=2022-09-21) [![foo](assets/linkedin.svg)](https://www.linkedin.com/in/patricio-huerta/)
+<p align="center" style="margin-top:16px">
+  <a href="https://www.linkedin.com/in/patricio-huerta/">
+    <img align="center" src="assets/linkedin.svg"/>
+  </a>
+</p>

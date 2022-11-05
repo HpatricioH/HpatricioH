@@ -16,7 +16,7 @@
 <p align="center">
 <img src="assets/javascript.png" alt="drawing" width="42" align="center"/> 
 <img src="assets/Css.png" alt="drawing" width="40" align="center"/>
-<img src="assets/HTMl.png" alt="drawing" width="40" align="center"/>
+<img src="assets/HTML.png" alt="drawing" width="40" align="center"/>
 <img src="assets/React.png" alt="drawing" width="40" align="center"/>
 <img src="assets/Sass.png" alt="drawing" width="45" align="center"/>
 <img src="assets/TailwindCSS.png" alt="drawing" width="40" align="center"/>

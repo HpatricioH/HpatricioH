@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I am Patricio Huerta </h1>
+<h1>Hi 👋, I am Patricio Huerta </h1>
 
-<p align="center">
-<h3 align="center">
+<h3>
   As an individual who is interested
   in professional growth and
   continuous learning I decided to
@@ -12,7 +11,7 @@
 </p>
 <br>
 
-<h2 align="center"><strong>Stack:</strong></h2>
+<h2><strong>Skills:</strong></h2>
 <p align="center">
 <img src="assets/javascript.png" alt="drawing" width="42" align="center"/> 
 <img src="assets/Css.png" alt="drawing" width="40" align="center"/>

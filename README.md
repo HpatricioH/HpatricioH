@@ -35,6 +35,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=2684ff)
+  ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=0052cc)
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack&logoColor=4a154b)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 - 📐 &nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
@@ -45,6 +49,7 @@
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=007ACC)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   ![supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=40cf8a)
+
 
 <br/>
 

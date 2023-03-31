@@ -1,15 +1,14 @@
 
-<h2 align="left">Hi 👋, I'm Patricio Huerta</h2>
-</br>
+<h1 align="center">Hi 👋, I'm Patricio Huerta</h1>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing websites, apps.
+- 🎓 &nbsp; Change careers from a finance field to web development 
+- 💼 &nbsp; Working as a Developer at re-Solved.
+- 🌱 &nbsp; Learning more about Typescript, Testing, AI and AWS.
 
-</br>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -56,7 +55,6 @@
 </a>
 </p>
 
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -66,5 +64,3 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-hhernanp@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://open.spotify.com/user/kmieyo1/"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-Patricio%20Huerta-blue?style=flat-square&logo=spotify"></a>
 </p>
-
-

@@ -27,6 +27,7 @@
 - 🖥 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
   ![Passport](https://img.shields.io/badge/-Passport-333333?style=flat&logo=passport)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)

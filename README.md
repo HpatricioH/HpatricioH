@@ -52,17 +52,6 @@
   ![supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=40cf8a)
 
 
-<br/>
-
-<p align="center">
-<a href="https://github.com/hpatricioh">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpatricioh&theme=buefy&show_icons=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpatricioh&theme=merko&layout=compact"/>
-</a>
-</p>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
